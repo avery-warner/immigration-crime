@@ -9,6 +9,6 @@ File Structure
 
 Data Sources
 
-- Customs and Border Protection, Nationwide Encounters by Area of Responsibility. https://www.cbp.gov/sites/default/files/2026-08/nationwide-encounters-fy23-fy26-jul-aor.csv (downloaded September 17, 2026)
-- Deportation Data Project. https://deportationdata.org/index.html (downloaded September 17, 2026)
+- Customs and Border Protection, Nationwide Encounters by Area of Responsibility: https://www.cbp.gov/sites/default/files/2026-08/nationwide-encounters-fy23-fy26-jul-aor.csv (downloaded September 17, 2026)
+- Deportation Data Project: https://deportationdata.org/index.html (downloaded September 17, 2026)
 - Crime Index: https://crimeindex.org/download (downloaded September 17, 2026; July 2026 data release)
