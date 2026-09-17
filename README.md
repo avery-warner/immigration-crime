@@ -4,8 +4,8 @@ Files for replicating "Immigration enforcement is not why crime is falling"
 
 File Structure
 
-Data Folder — raw data files, downloaded from sources described below. 
-immigration_crime_replication.do — cleans all raw data, builds analysis datasets, and produces all figures. 
+- **Data/** — raw data files, downloaded from sources described below
+- **immigration_crime_replication.do** — cleans all raw data, builds analysis datasets, and produces all figures
 
 Data Sources
 
